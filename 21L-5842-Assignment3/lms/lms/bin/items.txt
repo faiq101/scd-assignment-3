@@ -1,0 +1,5 @@
+1, Luke Shaw, WIlliam Khan, 2023, 1000, 200
+2, EStablishment,Munshu ul Haq , Hammad Bin Imran, Taha Qureshi, ANti Establishment, 4500, 500
+3, Jang, Dawn News, 100, 20-09-2023
+1, Woman, TOP G, 2023, 10000, 600
+2, New York Times,Maryam Grace, Faizi Chara , FireBoy , Kunni Destroyers, 500, 1000
